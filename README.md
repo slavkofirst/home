@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python language.
 - 💞️ I’m looking to collaborate on every fancy project with folks looking as high as possible. 
 - 📫 How to reach me - https://slavkofirst.github.io/resume.github.io/#contact
-- 💾 My project's - python based project in progress.
+- 💾 My projects - python based project in progress.
 
 <!---
 slavkofirst/slavkofirst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
